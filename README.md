@@ -16,7 +16,9 @@ No entanto, você pode criar um fluxo personalizado para receber notificações 
 
 Com o uso das API's conseguimos escrever códigos altamente customizaveis e também podemos adaptar a logica que será aplicada exatamente ao nosso cenário atual.
 Por exemplo..
+
 Digamos que você quer monitorar apenas repoistórios de uma BU (Business Unit) ou Squad Especifica.
+
 Então devemos setar a lista de `projetos` em que essa squad ou BU trabalha.
 
 A ideia deste script é facilitar a vida do time de Application Security na hora de fazer o monitoramento e avaliação de cobertura dentro dos repositórios da empresa.
