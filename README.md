@@ -1,6 +1,6 @@
 # Bitbucket-monitoring
 
-<img width="850" alt="image" src="https://github.com/DreadPirateRobertt/Bitbucket-monitoring/assets/82410029/21818abf-29c8-4548-8c29-d26402dfd53c">
+<img width="850" alt="image" src="https://github.com/DreadPirateRobertt/Bitbucket-monitoring/assets/82410029/c1b27714-9c04-422b-b6bf-072e483d3e3c">
 
 
 Este script tem o intuito de monitorar Criação de novos repositório dentro da organização de forma global, além de de coletar dados como: Projetos criados recentemente, Projetos sem update com filtro de data personalizado, Projetos que nunca foram atualizados e Projetos que estão recebendo commits com filtro de data personalizado.
