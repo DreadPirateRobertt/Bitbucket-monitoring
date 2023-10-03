@@ -3,7 +3,7 @@
 <img width="850" alt="image" src="https://github.com/DreadPirateRobertt/Bitbucket-monitoring/assets/82410029/c1b27714-9c04-422b-b6bf-072e483d3e3c">
 
 
-Este script tem o intuito de monitorar Criação de novos repositório dentro da organização de forma global, além de de coletar dados como: Projetos criados recentemente, Projetos sem update com filtro de data personalizado, Projetos que nunca foram atualizados e Projetos que estão recebendo commits com filtro de data personalizado.
+Este script tem o intuito de monitorar a criação de novos repositório dentro da organização de forma global, além de de coletar dados como: Projetos criados recentemente, Projetos sem update com filtro de data personalizado, Projetos que nunca foram atualizados e Projetos que estão recebendo commits com filtro de data personalizado.
 
 o Bitbucket, que é uma plataforma de hospedagem de repositórios de código Git, ele não possui uma função nativa que envie alertas automáticos quando novos repositórios são criados. O Bitbucket fornece recursos para notificar membros do repositório sobre atividades específicas, como push de código, pull requests e outros eventos, mas não possui uma funcionalidade nativa para notificar sobre a criação de novos repositórios em toda a instância.
 
