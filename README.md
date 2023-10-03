@@ -26,7 +26,7 @@ No entanto, você pode criar um fluxo personalizado para receber notificações 
 
 **3.	Integrações de Terceiros:** Algumas ferramentas de integração de terceiros, como Zapier ou IFTTT, podem ser usadas para criar fluxos personalizados de notificação com base em eventos do Bitbucket, incluindo a criação de repositórios.
 
-# Por que utilizar API's ?
+**Why API's ?**
 
 Com o uso das API's conseguimos escrever códigos altamente customizaveis e também podemos adaptar a logica que será aplicada exatamente ao nosso cenário atual.
 Por exemplo..
