@@ -13,6 +13,9 @@ Este script foi desenvolvido com o propósito de monitorar a criação de novos 
 
 - Projetos que estão recebendo commits com filtro de data personalizado.
 
+
+O script possui integração com envio de Email e SMS. fazendo o envio automatico de alertas para cada novo repositório dentro da organização ou para equipes de desenvolvimento específicas.
+
 o Bitbucket, que é uma plataforma de hospedagem de repositórios de código Git, ele não possui uma função nativa que envie alertas automáticos quando novos repositórios são criados. O Bitbucket fornece recursos para notificar membros do repositório sobre atividades específicas, como push de código, pull requests e outros eventos, mas não possui uma funcionalidade nativa para notificar sobre a criação de novos repositórios em toda a instância.
 
 No entanto, você pode criar um fluxo personalizado para receber notificações sobre a criação de novos repositórios usando outras ferramentas e integrações disponíveis. Aqui estão algumas maneiras de fazer isso:
