@@ -2,6 +2,7 @@
 
 <img width="850" alt="image" src="https://github.com/DreadPirateRobertt/Bitbucket-monitoring/assets/82410029/c1b27714-9c04-422b-b6bf-072e483d3e3c">
 
+**Contribuitors:** [@fhtc1980](https://github.com/fhtc1980)
 
 Este script foi desenvolvido com o propósito de monitorar a criação de novos repositório dentro da organização de forma global, além de de coletar informações importantes como: 
 
@@ -36,5 +37,3 @@ Digamos que você quer monitorar apenas repoistórios de uma BU (Business Unit) 
 Então devemos setar a lista de `projetos` em que essa squad ou BU trabalha.
 
 A ideia deste script é facilitar a vida do time de Application Security na hora de fazer o monitoramento e avaliação de cobertura dentro dos repositórios da empresa.
-
-**Contribuitors:** [@fhtc1980](https://github.com/fhtc1980)
